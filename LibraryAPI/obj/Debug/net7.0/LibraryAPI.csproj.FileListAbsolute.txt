@@ -1,0 +1,7 @@
+C:\Users\Sarah.DESKTOP-4A14J4L\Desktop\Final Project\LibraryAPI\LibraryAPI\obj\Debug\net7.0\LibraryAPI.csproj.AssemblyReference.cache
+C:\Users\Sarah.DESKTOP-4A14J4L\Desktop\Final Project\LibraryAPI\LibraryAPI\obj\Debug\net7.0\LibraryAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarah.DESKTOP-4A14J4L\Desktop\Final Project\LibraryAPI\LibraryAPI\obj\Debug\net7.0\LibraryAPI.AssemblyInfoInputs.cache
+C:\Users\Sarah.DESKTOP-4A14J4L\Desktop\Final Project\LibraryAPI\LibraryAPI\obj\Debug\net7.0\LibraryAPI.AssemblyInfo.cs
+C:\Users\Sarah.DESKTOP-4A14J4L\Desktop\Final Project\LibraryAPI\LibraryAPI\obj\Debug\net7.0\LibraryAPI.csproj.CoreCompileInputs.cache
+C:\Users\Sarah.DESKTOP-4A14J4L\Desktop\Final Project\LibraryAPI\LibraryAPI\obj\Debug\net7.0\LibraryAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sarah.DESKTOP-4A14J4L\Desktop\Final Project\LibraryAPI\LibraryAPI\obj\Debug\net7.0\LibraryAPI.MvcApplicationPartsAssemblyInfo.cache
